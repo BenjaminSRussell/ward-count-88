@@ -352,3 +352,6 @@
 {"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north court. arc left open. 3 steps. The barrel stays for the win."}
 {"n":353,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Mast yard. Nobody past the north court. We win in 4 steps. Arc on the left lane, open."}
 {"n":354,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard north court. Matt keeps the barrel for the win. 5 steps, arc on the left lane, open."}
+{"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north court. arc left open. 6 steps. The barrel stays for the win."}
+{"n":356,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at Mast yard. Nobody past the north court. We win in 7 steps. Arc on the left lane, open."}
+{"n":357,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north court. Nia keeps the barrel for the win. 8 steps, arc on the left lane, open."}
