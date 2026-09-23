@@ -212,3 +212,6 @@
 {"n":212,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east court. arc left open. 4 steps. The shutter stays for the win."}
 {"n":213,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at the pier. Nobody past the east court. We win in 5 steps. Arc on the left lane, open."}
 {"n":214,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier east court. Matt keeps the shutter for the win. 6 steps, arc on the left lane, open."}
+{"n":215,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east court. arc left open. 7 steps. The shutter stays for the win."}
+{"n":216,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the shutter at the pier. Nobody past the east court. We win in 8 steps. Arc on the left lane, open."}
+{"n":217,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier east court. Nia keeps the shutter for the win. 2 steps, arc on the left lane, open."}
