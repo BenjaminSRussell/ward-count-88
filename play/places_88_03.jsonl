@@ -573,3 +573,6 @@
 {"n":573,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. arc left open. 2 steps. The crate stays for the win."}
 {"n":574,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Switchyard. Nobody past the east court. We win in 3 steps. Arc on the left lane, open."}
 {"n":575,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east court. Bess keeps the crate for the win. 4 steps, arc on the left lane, open."}
+{"n":576,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. arc left open. 5 steps. The crate stays for the win."}
+{"n":577,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Drydock. Nobody past the east court. We win in 6 steps. Arc on the left lane, open."}
+{"n":578,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock east court. Matt keeps the crate for the win. 7 steps, arc on the left lane, open."}
