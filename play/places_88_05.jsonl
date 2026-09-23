@@ -25,3 +25,6 @@
 {"n":25,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The plywood stays for the win."}
 {"n":26,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Mast yard. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
 {"n":27,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard north court. Bess keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":28,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The plywood stays for the win."}
+{"n":29,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Last Light. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
+{"n":30,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light north court. Matt keeps the plywood for the win. 3 steps, arc on the left lane, open."}
