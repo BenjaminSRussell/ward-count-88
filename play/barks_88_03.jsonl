@@ -416,3 +416,6 @@
 {"n":416,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock east court. Ivo keeps the barrel for the win. 6 steps, arc on the left lane, open."}
 {"n":417,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east court. arc left open. 7 steps. The barrel stays for the win."}
 {"n":418,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Drydock. Nobody past the east court. We win in 8 steps. Arc on the left lane, open."}
+{"n":419,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock east court. Bess keeps the barrel for the win. 2 steps, arc on the left lane, open."}
+{"n":420,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east court. arc left open. 3 steps. The barrel stays for the win."}
+{"n":421,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at High line. Nobody past the east court. We win in 4 steps. Arc on the left lane, open."}
