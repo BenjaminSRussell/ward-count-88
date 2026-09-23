@@ -353,3 +353,6 @@
 {"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south court. arc left open. 2 steps. The barrel stays for the win."}
 {"n":354,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mall court. Nobody past the south court. We win in 3 steps. Arc on the left lane, open."}
 {"n":355,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court south court. Bess keeps the barrel for the win. 4 steps, arc on the left lane, open."}
+{"n":356,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south court. arc left open. 5 steps. The barrel stays for the win."}
+{"n":357,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at the Underpass. Nobody past the south court. We win in 6 steps. Arc on the left lane, open."}
+{"n":358,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass south court. Matt keeps the barrel for the win. 7 steps, arc on the left lane, open."}
