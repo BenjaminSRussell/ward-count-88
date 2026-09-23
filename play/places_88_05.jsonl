@@ -46,3 +46,6 @@
 {"n":46,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north court. arc left open. 5 steps. The plywood stays for the win."}
 {"n":47,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at South stair. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
 {"n":48,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair north court. Ivo keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":49,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north court. arc left open. 8 steps. The plywood stays for the win."}
+{"n":50,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at South stair. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
+{"n":51,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"South stair north court. Bess keeps the plywood for the win. 3 steps, arc on the left lane, open."}
