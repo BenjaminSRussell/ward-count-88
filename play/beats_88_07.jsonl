@@ -348,3 +348,6 @@
 {"n":348,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at Mall court. Nobody past the south court. We win in 4 steps. Arc on the left lane, open."}
 {"n":349,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court south court. Nia keeps the barrel for the win. 5 steps, arc on the left lane, open."}
 {"n":350,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south court. arc left open. 6 steps. The barrel stays for the win."}
+{"n":351,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at Mall court. Nobody past the south court. We win in 7 steps. Arc on the left lane, open."}
+{"n":352,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court south court. Ivo keeps the barrel for the win. 8 steps, arc on the left lane, open."}
+{"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south court. arc left open. 2 steps. The barrel stays for the win."}
