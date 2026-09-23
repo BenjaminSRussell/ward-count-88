@@ -984,3 +984,6 @@
 {"n":984,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot north court. Ivo keeps the rope for the win. 5 steps, arc on the left lane, open."}
 {"n":985,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north court. arc left open. 6 steps. The rope stays for the win."}
 {"n":986,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at the Lot. Nobody past the north court. We win in 7 steps. Arc on the left lane, open."}
+{"n":987,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot north court. Bess keeps the rope for the win. 8 steps, arc on the left lane, open."}
+{"n":988,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north court. arc left open. 2 steps. The rope stays for the win."}
+{"n":989,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Stockyard fence. Nobody past the north court. We win in 3 steps. Arc on the left lane, open."}
