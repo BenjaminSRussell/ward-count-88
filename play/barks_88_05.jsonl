@@ -705,3 +705,6 @@
 {"n":705,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light north court. Nia keeps the lamp for the win. 6 steps, arc on the left lane, open."}
 {"n":706,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north court. arc left open. 7 steps. The lamp stays for the win."}
 {"n":707,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Last Light. Nobody past the north court. We win in 8 steps. Arc on the left lane, open."}
+{"n":708,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light north court. Ivo keeps the lamp for the win. 2 steps, arc on the left lane, open."}
+{"n":709,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north court. arc left open. 3 steps. The lamp stays for the win."}
+{"n":710,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Last Light. Nobody past the north court. We win in 4 steps. Arc on the left lane, open."}
