@@ -410,3 +410,6 @@
 {"n":410,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east court. arc left open. 6 steps. The awning stays for the win."}
 {"n":411,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at Switchyard. Nobody past the east court. We win in 7 steps. Arc on the left lane, open."}
 {"n":412,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard east court. Ivo keeps the awning for the win. 8 steps, arc on the left lane, open."}
+{"n":413,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east court. arc left open. 2 steps. The awning stays for the win."}
+{"n":414,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Switchyard. Nobody past the east court. We win in 3 steps. Arc on the left lane, open."}
+{"n":415,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east court. Bess keeps the awning for the win. 4 steps, arc on the left lane, open."}
