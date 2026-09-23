@@ -814,3 +814,6 @@
 {"n":814,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south court. arc left open. 7 steps. The radio coil stays for the win."}
 {"n":815,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Ward gate. Nobody past the south court. We win in 8 steps. Arc on the left lane, open."}
 {"n":816,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate south court. Ivo keeps the radio coil for the win. 2 steps, arc on the left lane, open."}
+{"n":817,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south court. arc left open. 3 steps. The radio coil stays for the win."}
+{"n":818,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Ward gate. Nobody past the south court. We win in 4 steps. Arc on the left lane, open."}
+{"n":819,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south court. Bess keeps the radio coil for the win. 5 steps, arc on the left lane, open."}
