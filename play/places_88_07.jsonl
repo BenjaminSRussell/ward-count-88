@@ -92,3 +92,6 @@
 {"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south court. arc left open. 7 steps. The plywood stays for the win."}
 {"n":93,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Switchyard. Nobody past the south court. We win in 8 steps. Arc on the left lane, open."}
 {"n":94,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard south court. Matt keeps the plywood for the win. 2 steps, arc on the left lane, open."}
+{"n":95,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, south court. arc left open. 3 steps. The plywood stays for the win."}
+{"n":96,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at Switchyard. Nobody past the south court. We win in 4 steps. Arc on the left lane, open."}
+{"n":97,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard south court. Nia keeps the plywood for the win. 5 steps, arc on the left lane, open."}
