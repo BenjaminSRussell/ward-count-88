@@ -809,3 +809,6 @@
 {"n":809,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north court. Nia keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
 {"n":810,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north court. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":811,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Kessler alley. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
+{"n":812,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north court. Ivo keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":813,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north court. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":814,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
