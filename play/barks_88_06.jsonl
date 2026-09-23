@@ -848,3 +848,6 @@
 {"n":848,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court north court. Ivo keeps the radio coil for the win. 8 steps, arc on the left lane, open."}
 {"n":849,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north court. arc left open. 2 steps. The radio coil stays for the win."}
 {"n":850,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Mall court. Nobody past the north court. We win in 3 steps. Arc on the left lane, open."}
+{"n":851,"kind":"place","name":"Mall court north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court north court. Bess keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
+{"n":852,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north court. arc left open. 5 steps. The radio coil stays for the win."}
+{"n":853,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at the Underpass. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
