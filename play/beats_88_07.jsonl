@@ -489,3 +489,6 @@
 {"n":489,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at the Lot. Nobody past the south court. We win in 5 steps. Arc on the left lane, open."}
 {"n":490,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot south court. Matt keeps the crate for the win. 6 steps, arc on the left lane, open."}
 {"n":491,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south court. arc left open. 7 steps. The crate stays for the win."}
+{"n":492,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the Lot. Nobody past the south court. We win in 8 steps. Arc on the left lane, open."}
+{"n":493,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot south court. Nia keeps the crate for the win. 2 steps, arc on the left lane, open."}
+{"n":494,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south court. arc left open. 3 steps. The crate stays for the win."}
