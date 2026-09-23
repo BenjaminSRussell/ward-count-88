@@ -927,3 +927,6 @@
 {"n":927,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west court. Bess keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
 {"n":928,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west court. arc left open. 8 steps. The radio coil stays for the win."}
 {"n":929,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Ward gate. Nobody past the east court. We win in 2 steps. Arc on the left lane, open."}
+{"n":930,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate east court. Matt keeps the plywood for the win. 3 steps, arc on the left lane, open."}
+{"n":931,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east court. arc left open. 4 steps. The plywood stays for the win."}
+{"n":932,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at Ward gate. Nobody past the east court. We win in 5 steps. Arc on the left lane, open."}
