@@ -673,3 +673,6 @@
 {"n":673,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west court. arc left open. 5 steps. The badge door stays for the win."}
 {"n":674,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Mast yard. Nobody past the west court. We win in 6 steps. Arc on the left lane, open."}
 {"n":675,"kind":"place","name":"Mast yard west court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west court. Bess keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":676,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west court. arc left open. 8 steps. The badge door stays for the win."}
+{"n":677,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at Last Light. Nobody past the west court. We win in 2 steps. Arc on the left lane, open."}
+{"n":678,"kind":"place","name":"Last Light west court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west court. Matt keeps the badge door for the win. 3 steps, arc on the left lane, open."}
