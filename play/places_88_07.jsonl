@@ -101,3 +101,6 @@
 {"n":101,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The plywood stays for the win."}
 {"n":102,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Switchyard. Nobody past the south court. We win in 3 steps. Arc on the left lane, open."}
 {"n":103,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south court. Bess keeps the plywood for the win. 4 steps, arc on the left lane, open."}
+{"n":104,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The plywood stays for the win."}
+{"n":105,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at Drydock. Nobody past the south court. We win in 6 steps. Arc on the left lane, open."}
+{"n":106,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock south court. Matt keeps the plywood for the win. 7 steps, arc on the left lane, open."}
