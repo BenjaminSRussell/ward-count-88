@@ -322,3 +322,6 @@
 {"n":322,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Mast yard. Nobody past the south yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":323,"kind":"place","name":"Mast yard south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south yard. Bess keeps the awning for the win. 7 steps, arc on the left lane, open."}
 {"n":324,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south yard. arc left open. 8 steps. The awning stays for the win."}
+{"n":325,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Last Light. Nobody past the south yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":326,"kind":"place","name":"Last Light south yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light south yard. Matt keeps the awning for the win. 3 steps, arc on the left lane, open."}
+{"n":327,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south yard. arc left open. 4 steps. The awning stays for the win."}
