@@ -989,3 +989,6 @@
 {"n":989,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate west escape. Nia keeps the rope for the win. 6 steps, arc on the left lane, open."}
 {"n":990,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, west escape. arc left open. 7 steps. The rope stays for the win."}
 {"n":991,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Ward gate. Nobody past the west escape. We win in 8 steps. Arc on the left lane, open."}
+{"n":992,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate west escape. Ivo keeps the rope for the win. 2 steps, arc on the left lane, open."}
+{"n":993,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west escape. arc left open. 3 steps. The rope stays for the win."}
+{"n":994,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Ward gate. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
