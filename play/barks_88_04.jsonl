@@ -919,3 +919,6 @@
 {"n":919,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east court. Bess keeps the radio coil for the win. 4 steps, arc on the left lane, open."}
 {"n":920,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east court. arc left open. 5 steps. The radio coil stays for the win."}
 {"n":921,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at Drydock. Nobody past the east court. We win in 6 steps. Arc on the left lane, open."}
+{"n":922,"kind":"place","name":"Drydock east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east court. Matt keeps the radio coil for the win. 7 steps, arc on the left lane, open."}
+{"n":923,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east court. arc left open. 8 steps. The radio coil stays for the win."}
+{"n":924,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the radio coil at Drydock. Nobody past the east court. We win in 2 steps. Arc on the left lane, open."}
