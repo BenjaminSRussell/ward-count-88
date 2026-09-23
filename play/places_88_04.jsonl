@@ -338,3 +338,6 @@
 {"n":338,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east court. arc left open. 4 steps. The awning stays for the win."}
 {"n":339,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at the Underpass. Nobody past the east court. We win in 5 steps. Arc on the left lane, open."}
 {"n":340,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east court. Ivo keeps the awning for the win. 6 steps, arc on the left lane, open."}
+{"n":341,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east court. arc left open. 7 steps. The awning stays for the win."}
+{"n":342,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at the Underpass. Nobody past the east court. We win in 8 steps. Arc on the left lane, open."}
+{"n":343,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass east court. Bess keeps the awning for the win. 2 steps, arc on the left lane, open."}
