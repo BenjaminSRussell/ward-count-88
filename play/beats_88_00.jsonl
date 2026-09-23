@@ -574,3 +574,6 @@
 {"n":574,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at High line. Nobody past the south yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":575,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south yard. Bess keeps the drum for the win. 7 steps, arc on the left lane, open."}
 {"n":576,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The drum stays for the win."}
+{"n":577,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the badge door at Ward gate. Nobody past the south yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":578,"kind":"place","name":"Ward gate south yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south yard. Matt keeps the badge door for the win. 3 steps, arc on the left lane, open."}
+{"n":579,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south yard. arc left open. 4 steps. The badge door stays for the win."}
