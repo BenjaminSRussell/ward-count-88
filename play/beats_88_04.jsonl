@@ -771,3 +771,6 @@
 {"n":771,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at High line. Nobody past the east court. We win in 3 steps. Arc on the left lane, open."}
 {"n":772,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line east court. Ivo keeps the badge door for the win. 4 steps, arc on the left lane, open."}
 {"n":773,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east court. arc left open. 5 steps. The badge door stays for the win."}
+{"n":774,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at High line. Nobody past the east court. We win in 6 steps. Arc on the left lane, open."}
+{"n":775,"kind":"place","name":"High line east court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east court. Bess keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":776,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east court. arc left open. 8 steps. The badge door stays for the win."}
