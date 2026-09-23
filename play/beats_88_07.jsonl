@@ -948,3 +948,6 @@
 {"n":948,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at Drydock. Nobody past the south court. We win in 2 steps. Arc on the left lane, open."}
 {"n":949,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Drydock south court. Nia keeps the rebar for the win. 3 steps, arc on the left lane, open."}
 {"n":950,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south court. arc left open. 4 steps. The rebar stays for the win."}
+{"n":951,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Drydock. Nobody past the south court. We win in 5 steps. Arc on the left lane, open."}
+{"n":952,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south court. Ivo keeps the rebar for the win. 6 steps, arc on the left lane, open."}
+{"n":953,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. arc left open. 7 steps. The rebar stays for the win."}
