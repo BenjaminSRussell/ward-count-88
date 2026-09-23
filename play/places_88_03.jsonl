@@ -771,3 +771,6 @@
 {"n":771,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east court. arc left open. 4 steps. The rebar stays for the win."}
 {"n":772,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at Ward gate. Nobody past the east court. We win in 5 steps. Arc on the left lane, open."}
 {"n":773,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate east court. Nia keeps the rebar for the win. 6 steps, arc on the left lane, open."}
+{"n":774,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east court. arc left open. 7 steps. The rebar stays for the win."}
+{"n":775,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Ward gate. Nobody past the east court. We win in 8 steps. Arc on the left lane, open."}
+{"n":776,"kind":"place","name":"Ward gate east court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate east court. Ivo keeps the rebar for the win. 2 steps, arc on the left lane, open."}
