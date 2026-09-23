@@ -766,3 +766,6 @@
 {"n":766,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Kessler alley. Nobody past the south yard. We win in 2 steps. Arc on the left lane, open."}
 {"n":767,"kind":"place","name":"Kessler alley south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley south yard. Bess keeps the radio coil for the win. 3 steps, arc on the left lane, open."}
 {"n":768,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south yard. arc left open. 4 steps. The radio coil stays for the win."}
+{"n":769,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at the Lot. Nobody past the south yard. We win in 5 steps. Arc on the left lane, open."}
+{"n":770,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot south yard. Matt keeps the radio coil for the win. 6 steps, arc on the left lane, open."}
+{"n":771,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south yard. arc left open. 7 steps. The radio coil stays for the win."}
