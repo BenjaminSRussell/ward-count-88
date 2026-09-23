@@ -827,3 +827,6 @@
 {"n":827,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Stockyard fence. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
 {"n":828,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence north court. Ivo keeps the rebar for the win. 3 steps, arc on the left lane, open."}
 {"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north court. arc left open. 4 steps. The rebar stays for the win."}
+{"n":830,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Stockyard fence. Nobody past the north court. We win in 5 steps. Arc on the left lane, open."}
+{"n":831,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence north court. Bess keeps the rebar for the win. 6 steps, arc on the left lane, open."}
+{"n":832,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north court. arc left open. 7 steps. The rebar stays for the win."}
