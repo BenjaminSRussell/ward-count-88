@@ -967,3 +967,6 @@
 {"n":967,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east court. arc left open. 5 steps. The plywood stays for the win."}
 {"n":968,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the east court. We win in 6 steps. Arc on the left lane, open."}
 {"n":969,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the plywood for the win. 7 steps, arc on the left lane, open."}
+{"n":970,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The plywood stays for the win."}
+{"n":971,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Stockyard fence. Nobody past the east court. We win in 2 steps. Arc on the left lane, open."}
+{"n":972,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the plywood for the win. 3 steps, arc on the left lane, open."}
