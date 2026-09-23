@@ -529,3 +529,6 @@
 {"n":529,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south court. arc left open. 2 steps. The drum stays for the win."}
 {"n":530,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Mall court. Nobody past the south court. We win in 3 steps. Arc on the left lane, open."}
 {"n":531,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court south court. Bess keeps the drum for the win. 4 steps, arc on the left lane, open."}
+{"n":532,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south court. arc left open. 5 steps. The drum stays for the win."}
+{"n":533,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at the Underpass. Nobody past the south court. We win in 6 steps. Arc on the left lane, open."}
+{"n":534,"kind":"place","name":"the Underpass south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south court. Matt keeps the drum for the win. 7 steps, arc on the left lane, open."}
