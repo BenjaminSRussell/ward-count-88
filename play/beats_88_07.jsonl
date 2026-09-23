@@ -468,3 +468,6 @@
 {"n":468,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Ward gate. Nobody past the south court. We win in 5 steps. Arc on the left lane, open."}
 {"n":469,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate south court. Nia keeps the crate for the win. 6 steps, arc on the left lane, open."}
 {"n":470,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south court. arc left open. 7 steps. The crate stays for the win."}
+{"n":471,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Ward gate. Nobody past the south court. We win in 8 steps. Arc on the left lane, open."}
+{"n":472,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate south court. Ivo keeps the crate for the win. 2 steps, arc on the left lane, open."}
+{"n":473,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south court. arc left open. 3 steps. The crate stays for the win."}
