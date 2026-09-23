@@ -46,3 +46,6 @@
 {"n":46,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rope at Switchyard. Nobody past the south yard. We win in 3 steps. Arc on the left lane, open."}
 {"n":47,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard south yard. Bess keeps the rope for the win. 4 steps, arc on the left lane, open."}
 {"n":48,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south yard. arc left open. 5 steps. The rope stays for the win."}
+{"n":49,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rope at Drydock. Nobody past the south yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":50,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south yard. Matt keeps the rope for the win. 7 steps, arc on the left lane, open."}
+{"n":51,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south yard. arc left open. 8 steps. The rope stays for the win."}
