@@ -939,3 +939,6 @@
 {"n":939,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Switchyard. Nobody past the south court. We win in 7 steps. Arc on the left lane, open."}
 {"n":940,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard south court. Ivo keeps the rebar for the win. 8 steps, arc on the left lane, open."}
 {"n":941,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The rebar stays for the win."}
+{"n":942,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Switchyard. Nobody past the south court. We win in 3 steps. Arc on the left lane, open."}
+{"n":943,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south court. Bess keeps the rebar for the win. 4 steps, arc on the left lane, open."}
+{"n":944,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The rebar stays for the win."}
