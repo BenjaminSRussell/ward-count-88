@@ -819,3 +819,6 @@
 {"n":819,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Kessler alley. Nobody past the south court. We win in 6 steps. Arc on the left lane, open."}
 {"n":820,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south court. Ivo keeps the rebar for the win. 7 steps, arc on the left lane, open."}
 {"n":821,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south court. arc left open. 8 steps. The rebar stays for the win."}
+{"n":822,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Kessler alley. Nobody past the south court. We win in 2 steps. Arc on the left lane, open."}
+{"n":823,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south court. Bess keeps the rebar for the win. 3 steps, arc on the left lane, open."}
+{"n":824,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south court. arc left open. 4 steps. The rebar stays for the win."}
