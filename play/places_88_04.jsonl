@@ -500,3 +500,6 @@
 {"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east court. arc left open. 5 steps. The drum stays for the win."}
 {"n":501,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at the Underpass. Nobody past the east court. We win in 6 steps. Arc on the left lane, open."}
 {"n":502,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass east court. Matt keeps the drum for the win. 7 steps, arc on the left lane, open."}
+{"n":503,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east court. arc left open. 8 steps. The drum stays for the win."}
+{"n":504,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at the Underpass. Nobody past the east court. We win in 2 steps. Arc on the left lane, open."}
+{"n":505,"kind":"place","name":"the Underpass east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass east court. Nia keeps the drum for the win. 3 steps, arc on the left lane, open."}
