@@ -782,3 +782,6 @@
 {"n":782,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley east court. Matt keeps the rebar for the win. 8 steps, arc on the left lane, open."}
 {"n":783,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east court. arc left open. 2 steps. The rebar stays for the win."}
 {"n":784,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at Kessler alley. Nobody past the east court. We win in 3 steps. Arc on the left lane, open."}
+{"n":785,"kind":"place","name":"Kessler alley east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley east court. Nia keeps the rebar for the win. 4 steps, arc on the left lane, open."}
+{"n":786,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east court. arc left open. 5 steps. The rebar stays for the win."}
+{"n":787,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at Kessler alley. Nobody past the east court. We win in 6 steps. Arc on the left lane, open."}
