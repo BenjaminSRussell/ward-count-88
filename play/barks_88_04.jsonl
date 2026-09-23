@@ -865,3 +865,6 @@
 {"n":865,"kind":"place","name":"Last Light east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light east court. Nia keeps the radio coil for the win. 6 steps, arc on the left lane, open."}
 {"n":866,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east court. arc left open. 7 steps. The radio coil stays for the win."}
 {"n":867,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the radio coil at Last Light. Nobody past the east court. We win in 8 steps. Arc on the left lane, open."}
+{"n":868,"kind":"place","name":"Last Light east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light east court. Ivo keeps the radio coil for the win. 2 steps, arc on the left lane, open."}
+{"n":869,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east court. arc left open. 3 steps. The radio coil stays for the win."}
+{"n":870,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the radio coil at Last Light. Nobody past the east court. We win in 4 steps. Arc on the left lane, open."}
