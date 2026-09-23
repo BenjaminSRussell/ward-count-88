@@ -562,3 +562,6 @@
 {"n":562,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Mast yard. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
 {"n":563,"kind":"place","name":"Mast yard west escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard west escape. Bess keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":564,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west escape. arc left open. 8 steps. The crate stays for the win."}
+{"n":565,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Last Light. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":566,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light west escape. Matt keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":567,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west escape. arc left open. 4 steps. The crate stays for the win."}
