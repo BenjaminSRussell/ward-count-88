@@ -644,3 +644,6 @@
 {"n":644,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line west escape. Ivo keeps the crate for the win. 4 steps, arc on the left lane, open."}
 {"n":645,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. arc left open. 5 steps. The crate stays for the win."}
 {"n":646,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at High line. Nobody past the west escape. We win in 6 steps. Arc on the left lane, open."}
+{"n":647,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west escape. Bess keeps the crate for the win. 7 steps, arc on the left lane, open."}
+{"n":648,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west escape. arc left open. 8 steps. The crate stays for the win."}
+{"n":649,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the lamp at Ward gate. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
