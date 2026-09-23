@@ -70,3 +70,6 @@
 {"n":70,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard east court. Matt keeps the rope for the win. 2 steps, arc on the left lane, open."}
 {"n":71,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east court. arc left open. 3 steps. The rope stays for the win."}
 {"n":72,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rope at Switchyard. Nobody past the east court. We win in 4 steps. Arc on the left lane, open."}
+{"n":73,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard east court. Nia keeps the rope for the win. 5 steps, arc on the left lane, open."}
+{"n":74,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east court. arc left open. 6 steps. The rope stays for the win."}
+{"n":75,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rope at Switchyard. Nobody past the east court. We win in 7 steps. Arc on the left lane, open."}
