@@ -392,3 +392,6 @@
 {"n":392,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at the pier. Nobody past the north court. We win in 8 steps. Arc on the left lane, open."}
 {"n":393,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier north court. Nia keeps the barrel for the win. 2 steps, arc on the left lane, open."}
 {"n":394,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north court. arc left open. 3 steps. The barrel stays for the win."}
+{"n":395,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the barrel at the pier. Nobody past the north court. We win in 4 steps. Arc on the left lane, open."}
+{"n":396,"kind":"place","name":"the pier north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier north court. Ivo keeps the barrel for the win. 5 steps, arc on the left lane, open."}
+{"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north court. arc left open. 6 steps. The barrel stays for the win."}
