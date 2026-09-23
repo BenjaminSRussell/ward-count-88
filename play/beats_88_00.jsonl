@@ -235,3 +235,6 @@
 {"n":235,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at High line. Nobody past the south yard. We win in 3 steps. Arc on the left lane, open."}
 {"n":236,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line south yard. Ivo keeps the shutter for the win. 4 steps, arc on the left lane, open."}
 {"n":237,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The shutter stays for the win."}
+{"n":238,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at High line. Nobody past the south yard. We win in 6 steps. Arc on the left lane, open."}
+{"n":239,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line south yard. Bess keeps the shutter for the win. 7 steps, arc on the left lane, open."}
+{"n":240,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south yard. arc left open. 8 steps. The shutter stays for the win."}
