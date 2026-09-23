@@ -214,3 +214,6 @@
 {"n":214,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south court. arc left open. 2 steps. The shutter stays for the win."}
 {"n":215,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the shutter at Mast yard. Nobody past the south court. We win in 3 steps. Arc on the left lane, open."}
 {"n":216,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south court. Ivo keeps the shutter for the win. 4 steps, arc on the left lane, open."}
+{"n":217,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south court. arc left open. 5 steps. The shutter stays for the win."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Mast yard. Nobody past the south court. We win in 6 steps. Arc on the left lane, open."}
+{"n":219,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south court. Bess keeps the shutter for the win. 7 steps, arc on the left lane, open."}
