@@ -432,3 +432,6 @@
 {"n":432,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at Kessler alley. Nobody past the west court. We win in 3 steps. Arc on the left lane, open."}
 {"n":433,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley west court. Nia keeps the crate for the win. 4 steps, arc on the left lane, open."}
 {"n":434,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west court. arc left open. 5 steps. The crate stays for the win."}
+{"n":435,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Kessler alley. Nobody past the west court. We win in 6 steps. Arc on the left lane, open."}
+{"n":436,"kind":"place","name":"Kessler alley west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Kessler alley west court. Ivo keeps the crate for the win. 7 steps, arc on the left lane, open."}
+{"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west court. arc left open. 8 steps. The crate stays for the win."}
