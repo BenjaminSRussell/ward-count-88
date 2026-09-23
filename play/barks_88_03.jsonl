@@ -230,3 +230,6 @@
 {"n":230,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Switchyard east court. Matt keeps the hydrant for the win. 2 steps, arc on the left lane, open."}
 {"n":231,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east court. arc left open. 3 steps. The hydrant stays for the win."}
 {"n":232,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at Switchyard. Nobody past the east court. We win in 4 steps. Arc on the left lane, open."}
+{"n":233,"kind":"place","name":"Switchyard east court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard east court. Nia keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
+{"n":234,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east court. arc left open. 6 steps. The hydrant stays for the win."}
+{"n":235,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at Switchyard. Nobody past the east court. We win in 7 steps. Arc on the left lane, open."}
