@@ -378,3 +378,6 @@
 {"n":378,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the barrel at Mast yard. Nobody past the south court. We win in 6 steps. Arc on the left lane, open."}
 {"n":379,"kind":"place","name":"Mast yard south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south court. Bess keeps the barrel for the win. 7 steps, arc on the left lane, open."}
 {"n":380,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south court. arc left open. 8 steps. The barrel stays for the win."}
+{"n":381,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Last Light. Nobody past the south court. We win in 2 steps. Arc on the left lane, open."}
+{"n":382,"kind":"place","name":"Last Light south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light south court. Matt keeps the barrel for the win. 3 steps, arc on the left lane, open."}
+{"n":383,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south court. arc left open. 4 steps. The barrel stays for the win."}
