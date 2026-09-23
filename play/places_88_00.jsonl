@@ -258,3 +258,6 @@
 {"n":258,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south yard. arc left open. 5 steps. The awning stays for the win."}
 {"n":259,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the awning at Kessler alley. Nobody past the south yard. We win in 6 steps. Arc on the left lane, open."}
 {"n":260,"kind":"place","name":"Kessler alley south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley south yard. Ivo keeps the awning for the win. 7 steps, arc on the left lane, open."}
+{"n":261,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south yard. arc left open. 8 steps. The awning stays for the win."}
+{"n":262,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the awning at Kessler alley. Nobody past the south yard. We win in 2 steps. Arc on the left lane, open."}
+{"n":263,"kind":"place","name":"Kessler alley south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley south yard. Bess keeps the awning for the win. 3 steps, arc on the left lane, open."}
