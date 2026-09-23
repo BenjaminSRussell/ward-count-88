@@ -756,3 +756,6 @@
 {"n":756,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line west court. Ivo keeps the badge door for the win. 4 steps, arc on the left lane, open."}
 {"n":757,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west court. arc left open. 5 steps. The badge door stays for the win."}
 {"n":758,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at High line. Nobody past the west court. We win in 6 steps. Arc on the left lane, open."}
+{"n":759,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line west court. Bess keeps the badge door for the win. 7 steps, arc on the left lane, open."}
+{"n":760,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west court. arc left open. 8 steps. The badge door stays for the win."}
+{"n":761,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the radio coil at Ward gate. Nobody past the west court. We win in 2 steps. Arc on the left lane, open."}
