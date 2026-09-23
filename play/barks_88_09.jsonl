@@ -689,3 +689,6 @@
 {"n":689,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence west escape. Nia keeps the lamp for the win. 7 steps, arc on the left lane, open."}
 {"n":690,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west escape. arc left open. 8 steps. The lamp stays for the win."}
 {"n":691,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Stockyard fence. Nobody past the west escape. We win in 2 steps. Arc on the left lane, open."}
+{"n":692,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence west escape. Ivo keeps the lamp for the win. 3 steps, arc on the left lane, open."}
+{"n":693,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west escape. arc left open. 4 steps. The lamp stays for the win."}
+{"n":694,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Stockyard fence. Nobody past the west escape. We win in 5 steps. Arc on the left lane, open."}
