@@ -284,3 +284,6 @@
 {"n":284,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line north court. Ivo keeps the shutter for the win. 4 steps, arc on the left lane, open."}
 {"n":285,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north court. arc left open. 5 steps. The shutter stays for the win."}
 {"n":286,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at High line. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
+{"n":287,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line north court. Bess keeps the shutter for the win. 7 steps, arc on the left lane, open."}
+{"n":288,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The shutter stays for the win."}
+{"n":289,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the awning at Ward gate. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
