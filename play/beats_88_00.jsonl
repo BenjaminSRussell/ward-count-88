@@ -607,3 +607,6 @@
 {"n":607,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at the Lot. Nobody past the south yard. We win in 4 steps. Arc on the left lane, open."}
 {"n":608,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the badge door for the win. 5 steps, arc on the left lane, open."}
 {"n":609,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The badge door stays for the win."}
+{"n":610,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at the Lot. Nobody past the south yard. We win in 7 steps. Arc on the left lane, open."}
+{"n":611,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south yard. Bess keeps the badge door for the win. 8 steps, arc on the left lane, open."}
+{"n":612,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The badge door stays for the win."}
