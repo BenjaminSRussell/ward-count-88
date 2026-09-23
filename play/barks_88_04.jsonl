@@ -634,3 +634,6 @@
 {"n":634,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot east court. Matt keeps the badge door for the win. 6 steps, arc on the left lane, open."}
 {"n":635,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east court. arc left open. 7 steps. The badge door stays for the win."}
 {"n":636,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the badge door at the Lot. Nobody past the east court. We win in 8 steps. Arc on the left lane, open."}
+{"n":637,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Lot east court. Nia keeps the badge door for the win. 2 steps, arc on the left lane, open."}
+{"n":638,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east court. arc left open. 3 steps. The badge door stays for the win."}
+{"n":639,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at the Lot. Nobody past the east court. We win in 4 steps. Arc on the left lane, open."}
