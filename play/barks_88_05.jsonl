@@ -552,3 +552,6 @@
 {"n":552,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair north court. Ivo keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":553,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north court. arc left open. 8 steps. The crate stays for the win."}
 {"n":554,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at South stair. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
+{"n":555,"kind":"place","name":"South stair north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair north court. Bess keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":556,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north court. arc left open. 4 steps. The crate stays for the win."}
+{"n":557,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at the pier. Nobody past the north court. We win in 5 steps. Arc on the left lane, open."}
