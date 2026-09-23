@@ -270,3 +270,6 @@
 {"n":270,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line north court. Matt keeps the hydrant for the win. 5 steps, arc on the left lane, open."}
 {"n":271,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north court. arc left open. 6 steps. The hydrant stays for the win."}
 {"n":272,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the hydrant at High line. Nobody past the north court. We win in 7 steps. Arc on the left lane, open."}
+{"n":273,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line north court. Nia keeps the hydrant for the win. 8 steps, arc on the left lane, open."}
+{"n":274,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north court. arc left open. 2 steps. The hydrant stays for the win."}
+{"n":275,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at High line. Nobody past the north court. We win in 3 steps. Arc on the left lane, open."}
