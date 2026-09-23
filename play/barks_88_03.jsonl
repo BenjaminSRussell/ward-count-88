@@ -866,3 +866,6 @@
 {"n":866,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair east court. Matt keeps the rebar for the win. 8 steps, arc on the left lane, open."}
 {"n":867,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east court. arc left open. 2 steps. The rebar stays for the win."}
 {"n":868,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the rebar at South stair. Nobody past the east court. We win in 3 steps. Arc on the left lane, open."}
+{"n":869,"kind":"place","name":"South stair east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair east court. Nia keeps the rebar for the win. 4 steps, arc on the left lane, open."}
+{"n":870,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east court. arc left open. 5 steps. The rebar stays for the win."}
+{"n":871,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at South stair. Nobody past the east court. We win in 6 steps. Arc on the left lane, open."}
