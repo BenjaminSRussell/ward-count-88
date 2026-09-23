@@ -865,3 +865,6 @@
 {"n":865,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The rebar stays for the win."}
 {"n":866,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at Mast yard. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
 {"n":867,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard north court. Bess keeps the rebar for the win. 7 steps, arc on the left lane, open."}
+{"n":868,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The rebar stays for the win."}
+{"n":869,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the rebar at Last Light. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
+{"n":870,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light north court. Matt keeps the rebar for the win. 3 steps, arc on the left lane, open."}
