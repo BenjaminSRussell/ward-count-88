@@ -983,3 +983,6 @@
 {"n":983,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the plywood at Mall court. Nobody past the east court. We win in 7 steps. Arc on the left lane, open."}
 {"n":984,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court east court. Ivo keeps the plywood for the win. 8 steps, arc on the left lane, open."}
 {"n":985,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east court. arc left open. 2 steps. The plywood stays for the win."}
+{"n":986,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Mall court. Nobody past the east court. We win in 3 steps. Arc on the left lane, open."}
+{"n":987,"kind":"place","name":"Mall court east court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court east court. Bess keeps the plywood for the win. 4 steps, arc on the left lane, open."}
+{"n":988,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east court. arc left open. 5 steps. The plywood stays for the win."}
