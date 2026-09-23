@@ -606,3 +606,6 @@
 {"n":606,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Switchyard. Nobody past the south court. We win in 3 steps. Arc on the left lane, open."}
 {"n":607,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard south court. Bess keeps the crate for the win. 4 steps, arc on the left lane, open."}
 {"n":608,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The crate stays for the win."}
+{"n":609,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the crate at Drydock. Nobody past the south court. We win in 6 steps. Arc on the left lane, open."}
+{"n":610,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south court. Matt keeps the crate for the win. 7 steps, arc on the left lane, open."}
+{"n":611,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south court. arc left open. 8 steps. The crate stays for the win."}
