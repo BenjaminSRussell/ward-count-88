@@ -584,3 +584,6 @@
 {"n":584,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at High line. Nobody past the west court. We win in 7 steps. Arc on the left lane, open."}
 {"n":585,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line west court. Nia keeps the drum for the win. 8 steps, arc on the left lane, open."}
 {"n":586,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west court. arc left open. 2 steps. The drum stays for the win."}
+{"n":587,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at High line. Nobody past the west court. We win in 3 steps. Arc on the left lane, open."}
+{"n":588,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line west court. Ivo keeps the drum for the win. 4 steps, arc on the left lane, open."}
+{"n":589,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west court. arc left open. 5 steps. The drum stays for the win."}
