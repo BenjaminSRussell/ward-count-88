@@ -246,3 +246,6 @@
 {"n":246,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at High line. Nobody past the west court. We win in 6 steps. Arc on the left lane, open."}
 {"n":247,"kind":"place","name":"High line west court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west court. Bess keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
 {"n":248,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west court. arc left open. 8 steps. The hydrant stays for the win."}
+{"n":249,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at Ward gate. Nobody past the west court. We win in 2 steps. Arc on the left lane, open."}
+{"n":250,"kind":"place","name":"Ward gate west court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west court. Matt keeps the barrel for the win. 3 steps, arc on the left lane, open."}
+{"n":251,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west court. arc left open. 4 steps. The barrel stays for the win."}
