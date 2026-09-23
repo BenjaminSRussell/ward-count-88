@@ -536,3 +536,6 @@
 {"n":536,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard north court. Ivo keeps the drum for the win. 4 steps, arc on the left lane, open."}
 {"n":537,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. arc left open. 5 steps. The drum stays for the win."}
 {"n":538,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Mast yard. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
+{"n":539,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north court. Bess keeps the drum for the win. 7 steps, arc on the left lane, open."}
+{"n":540,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. arc left open. 8 steps. The drum stays for the win."}
+{"n":541,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Last Light. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
