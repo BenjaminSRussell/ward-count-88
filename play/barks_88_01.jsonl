@@ -457,3 +457,6 @@
 {"n":457,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence west court. Nia keeps the crate for the win. 7 steps, arc on the left lane, open."}
 {"n":458,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, west court. arc left open. 8 steps. The crate stays for the win."}
 {"n":459,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Stockyard fence. Nobody past the west court. We win in 2 steps. Arc on the left lane, open."}
+{"n":460,"kind":"place","name":"Stockyard fence west court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence west court. Ivo keeps the crate for the win. 3 steps, arc on the left lane, open."}
+{"n":461,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west court. arc left open. 4 steps. The crate stays for the win."}
+{"n":462,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Stockyard fence. Nobody past the west court. We win in 5 steps. Arc on the left lane, open."}
