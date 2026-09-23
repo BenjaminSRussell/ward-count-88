@@ -604,3 +604,6 @@
 {"n":604,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the drum at Drydock. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
 {"n":605,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north court. Nia keeps the drum for the win. 3 steps, arc on the left lane, open."}
 {"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north court. arc left open. 4 steps. The drum stays for the win."}
+{"n":607,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at Drydock. Nobody past the north court. We win in 5 steps. Arc on the left lane, open."}
+{"n":608,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north court. Ivo keeps the drum for the win. 6 steps, arc on the left lane, open."}
+{"n":609,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north court. arc left open. 7 steps. The drum stays for the win."}
