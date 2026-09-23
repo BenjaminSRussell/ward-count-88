@@ -596,3 +596,6 @@
 {"n":596,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north court. Ivo keeps the drum for the win. 8 steps, arc on the left lane, open."}
 {"n":597,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north court. arc left open. 2 steps. The drum stays for the win."}
 {"n":598,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Switchyard. Nobody past the north court. We win in 3 steps. Arc on the left lane, open."}
+{"n":599,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north court. Bess keeps the drum for the win. 4 steps, arc on the left lane, open."}
+{"n":600,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north court. arc left open. 5 steps. The drum stays for the win."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at Drydock. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
