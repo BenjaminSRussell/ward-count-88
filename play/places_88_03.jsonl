@@ -459,3 +459,6 @@
 {"n":459,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east court. arc left open. 7 steps. The crate stays for the win."}
 {"n":460,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the Lot. Nobody past the east court. We win in 8 steps. Arc on the left lane, open."}
 {"n":461,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot east court. Nia keeps the crate for the win. 2 steps, arc on the left lane, open."}
+{"n":462,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east court. arc left open. 3 steps. The crate stays for the win."}
+{"n":463,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Lot. Nobody past the east court. We win in 4 steps. Arc on the left lane, open."}
+{"n":464,"kind":"place","name":"the Lot east court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east court. Ivo keeps the crate for the win. 5 steps, arc on the left lane, open."}
