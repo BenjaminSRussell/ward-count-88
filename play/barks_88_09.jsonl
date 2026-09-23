@@ -131,3 +131,6 @@
 {"n":131,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west escape. Bess keeps the plywood for the win. 2 steps, arc on the left lane, open."}
 {"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west escape. arc left open. 3 steps. The plywood stays for the win."}
 {"n":133,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at High line. Nobody past the west escape. We win in 4 steps. Arc on the left lane, open."}
+{"n":134,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line west escape. Matt keeps the plywood for the win. 5 steps, arc on the left lane, open."}
+{"n":135,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west escape. arc left open. 6 steps. The plywood stays for the win."}
+{"n":136,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the plywood at High line. Nobody past the west escape. We win in 7 steps. Arc on the left lane, open."}
