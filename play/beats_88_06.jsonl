@@ -262,3 +262,6 @@
 {"n":262,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Switchyard. Nobody past the north court. We win in 3 steps. Arc on the left lane, open."}
 {"n":263,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north court. Bess keeps the shutter for the win. 4 steps, arc on the left lane, open."}
 {"n":264,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north court. arc left open. 5 steps. The shutter stays for the win."}
+{"n":265,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at Drydock. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
+{"n":266,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north court. Matt keeps the shutter for the win. 7 steps, arc on the left lane, open."}
+{"n":267,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north court. arc left open. 8 steps. The shutter stays for the win."}
