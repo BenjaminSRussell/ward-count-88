@@ -689,3 +689,6 @@
 {"n":689,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass north court. Nia keeps the badge door for the win. 3 steps, arc on the left lane, open."}
 {"n":690,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, north court. arc left open. 4 steps. The badge door stays for the win."}
 {"n":691,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at the Underpass. Nobody past the north court. We win in 5 steps. Arc on the left lane, open."}
+{"n":692,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass north court. Ivo keeps the badge door for the win. 6 steps, arc on the left lane, open."}
+{"n":693,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north court. arc left open. 7 steps. The badge door stays for the win."}
+{"n":694,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at the Underpass. Nobody past the north court. We win in 8 steps. Arc on the left lane, open."}
