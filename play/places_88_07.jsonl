@@ -269,3 +269,6 @@
 {"n":269,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south court. arc left open. 2 steps. The hydrant stays for the win."}
 {"n":270,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at Switchyard. Nobody past the south court. We win in 3 steps. Arc on the left lane, open."}
 {"n":271,"kind":"place","name":"Switchyard south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south court. Bess keeps the hydrant for the win. 4 steps, arc on the left lane, open."}
+{"n":272,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south court. arc left open. 5 steps. The hydrant stays for the win."}
+{"n":273,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Drydock. Nobody past the south court. We win in 6 steps. Arc on the left lane, open."}
+{"n":274,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock south court. Matt keeps the hydrant for the win. 7 steps, arc on the left lane, open."}
