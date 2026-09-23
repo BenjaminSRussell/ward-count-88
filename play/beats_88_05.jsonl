@@ -110,3 +110,6 @@
 {"n":110,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at High line. Nobody past the north court. We win in 6 steps. Arc on the left lane, open."}
 {"n":111,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north court. Bess keeps the plywood for the win. 7 steps, arc on the left lane, open."}
 {"n":112,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north court. arc left open. 8 steps. The plywood stays for the win."}
+{"n":113,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the hydrant at Ward gate. Nobody past the north court. We win in 2 steps. Arc on the left lane, open."}
+{"n":114,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north court. Matt keeps the hydrant for the win. 3 steps, arc on the left lane, open."}
+{"n":115,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north court. arc left open. 4 steps. The hydrant stays for the win."}
