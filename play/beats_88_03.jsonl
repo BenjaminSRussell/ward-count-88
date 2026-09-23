@@ -544,3 +544,6 @@
 {"n":544,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the crate at the pier. Nobody past the east court. We win in 8 steps. Arc on the left lane, open."}
 {"n":545,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier east court. Nia keeps the crate for the win. 2 steps, arc on the left lane, open."}
 {"n":546,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east court. arc left open. 3 steps. The crate stays for the win."}
+{"n":547,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the pier. Nobody past the east court. We win in 4 steps. Arc on the left lane, open."}
+{"n":548,"kind":"place","name":"the pier east court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier east court. Ivo keeps the crate for the win. 5 steps, arc on the left lane, open."}
+{"n":549,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east court. arc left open. 6 steps. The crate stays for the win."}
