@@ -649,3 +649,6 @@
 {"n":649,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east court. Nia keeps the badge door for the win. 7 steps, arc on the left lane, open."}
 {"n":650,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east court. arc left open. 8 steps. The badge door stays for the win."}
 {"n":651,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the badge door at Stockyard fence. Nobody past the east court. We win in 2 steps. Arc on the left lane, open."}
+{"n":652,"kind":"place","name":"Stockyard fence east court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence east court. Ivo keeps the badge door for the win. 3 steps, arc on the left lane, open."}
+{"n":653,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east court. arc left open. 4 steps. The badge door stays for the win."}
+{"n":654,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the east court. We win in 5 steps. Arc on the left lane, open."}
